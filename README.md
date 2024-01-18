@@ -11,7 +11,7 @@ Sou desenvolvedor Front-End, apaixonado e dedicado aos meus estudos e trabalho.
   <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
+  ##Socials
  
 <div> 
     <a href="https://meuportfolio-gamma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
