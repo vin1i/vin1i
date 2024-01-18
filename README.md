@@ -1,4 +1,4 @@
-## Hey, eu sou o Vinicius 👋🏻, 
+## Hey, eu sou o Vinicius 👋🏻
 
 Sou desenvolvedor Front-End, apaixonado e dedicado aos meus estudos e trabalho. 
 
