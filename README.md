@@ -1,6 +1,6 @@
 ## Hey, eu sou o Vinicius 👋🏻
 
-Sou desenvolvedor Front-End, apaixonado e dedicado aos meus estudos e trabalho. 
+Sou desenvolvedor Full-Stack, apaixonado e dedicado aos meus estudos e trabalho. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
