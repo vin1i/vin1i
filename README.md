@@ -38,6 +38,8 @@ Gosto de transformar ideias em soluções através do código. 🚀
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvini21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvini21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1i&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" />
 </div>
+
+
