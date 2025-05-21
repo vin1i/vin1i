@@ -23,24 +23,24 @@ Gosto de transformar ideias em soluções através do código. 🚀
 ---
 
 ### 🌍 Onde me encontrar
-
-<div align="flex-start">
+<div align="center">
   <a href="https://www.vinideveloper.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mvini21/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marcosvini342@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+   <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="flex-start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1i&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvini21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvini21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
