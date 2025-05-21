@@ -1,7 +1,7 @@
 <h1 align="flex-start">Fala aí, eu sou o Vinicius 👋🏻</h1>
 
 <p align="flex-start">
-Sou <strong>Desenvolvedor Full-Stack</strong>, apaixonado por tecnologia e dedicado aos meus estudos e projetos. <br />
+Sou <strong>Desenvolvedor Front-End</strong>, apaixonado por tecnologia e dedicado aos meus estudos e projetos. <br />
 Gosto de transformar ideias em soluções através do código. 🚀
 </p>
 
