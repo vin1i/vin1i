@@ -1,6 +1,6 @@
-<h1 align="center">Fala aí, eu sou o Vinicius 👋🏻</h1>
+<h1 align="flex-start">Fala aí, eu sou o Vinicius 👋🏻</h1>
 
-<p align="center">
+<p align="flex-start">
 Sou <strong>Desenvolvedor Full-Stack</strong>, apaixonado por tecnologia e dedicado aos meus estudos e projetos. <br />
 Gosto de transformar ideias em soluções através do código. 🚀
 </p>
@@ -9,19 +9,22 @@ Gosto de transformar ideias em soluções através do código. 🚀
 
 ### 🛠️ Tecnologias que uso
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="flex-start" style="display: inline_block"><br>
+<div align="flex-start" style="display: inline_block"><br>
+  <img align="flex-start" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   <img align="flex-start" alt="Vue.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="flex-start" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="flex-start" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="flex-start" alt="TailwindCSS" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+
 </div>
+
 
 ---
 
 ### 🌍 Onde me encontrar
 
-<div align="center">
+<div align="flex-start">
   <a href="https://www.vinideveloper.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
@@ -37,9 +40,7 @@ Gosto de transformar ideias em soluções através do código. 🚀
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1i&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" />
+<div align="flex-start">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvini21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvini21&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
-
-
