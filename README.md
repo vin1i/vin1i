@@ -23,7 +23,7 @@ Gosto de transformar ideias em soluções através do código. 🚀
 ---
 
 ### 🌍 Onde me encontrar
-<div align="center">
+<div align="flex-start">
   <a href="https://www.vinideveloper.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
