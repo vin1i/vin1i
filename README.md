@@ -47,6 +47,7 @@ Atualmente atuo como **Desenvolvedor Front-End** na **Bee** 🐝, criando interf
 ### 📊 GitHub Stats
 
 <div align="flex-start">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1i&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1i&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
+
