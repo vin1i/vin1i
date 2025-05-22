@@ -11,15 +11,11 @@ Gosto de transformar ideias em soluções através do código. 🚀
 
 <div align="flex-start" style="display: inline_block"><br>
 <div align="flex-start" style="display: inline_block"><br>
-  <img align="flex-start" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-   <img align="flex-start" alt="Vue.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="flex-start" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="flex-start" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="flex-start" alt="TailwindCSS" height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-<img align="flex-start" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="flex-start" alt="Postman" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postman-icon.svg" />
-<img align="flex-start" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="flex-start" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,mysql,vite,linux,cloudflare,aws,docker,postman,mongodb,express" />
+</p>
 
 </div>
 
