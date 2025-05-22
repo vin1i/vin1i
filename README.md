@@ -1,4 +1,7 @@
-## Fala aí, eu sou o Vinicius 👋🏻
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=false&vCenter=true&width=460&lines=Fala+aí%2C+eu+sou+o+Vinicius+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
+</h1>
+
 
 Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas.
 
