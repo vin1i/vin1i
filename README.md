@@ -1,7 +1,5 @@
 # Fala aí, eu sou o Vinicius 👋🏻
 
-Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas.
-
 ### 👨🏻‍💻 Sobre mim
 
 Atualmente atuo como **Desenvolvedor Front-End** na **Bee** 🐝, criando interfaces modernas, performáticas e acessíveis.
