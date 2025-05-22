@@ -1,9 +1,15 @@
-<h1 align="flex-start">Fala aí, eu sou o Vinicius 👋🏻</h1>
+## Fala aí, eu sou o Vinicius 👋🏻
 
-<p align="flex-start">
-Sou <strong>Desenvolvedor Front-End</strong>, apaixonado por tecnologia e dedicado aos meus estudos e projetos. <br />
-Gosto de transformar ideias em soluções através do código. 🚀
-</p>
+Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas.
+
+### 👨🏻‍💻 Sobre mim
+
+Atualmente atuo como **Desenvolvedor Front-End** na **Bee** 🐝, criando interfaces modernas, performáticas e acessíveis.
+
+💡 No momento, estou expandindo meus conhecimentos em:
+- **Design UI/UX**, para melhorar a experiência do usuário;
+- **Back-End**, me aprofundando em tecnologias e arquitetura de sistemas.
+
 
 ---
 
@@ -14,7 +20,7 @@ Gosto de transformar ideias em soluções através do código. 🚀
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,vue,js,ts,vite,nodejs,express,firebase,mysql,mongodb,docker,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,js,ts,vite,nodejs,firebase,mysql,mongodb,docker,linux,postman" />
 </p>
 
 </div>
