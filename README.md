@@ -19,7 +19,7 @@ Atualmente atuo como **Desenvolvedor Front-End** na **Bee** 🐝, criando interf
 <div align="flex-start" style="display: inline_block"><br>
 
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,vue,js,ts,vite,nodejs,firebase,mysql,mongodb,docker,linux,postman" />
 </p>
 
