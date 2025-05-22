@@ -1,8 +1,4 @@
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=36BCF7&center=false&vCenter=true&width=460&lines=Fala+aí%2C+eu+sou+o+Vinicius+👋🏻" alt="Typing SVG" />
-</h1>
-
-
+# Fala aí, eu sou o Vinicius 👋🏻
 
 Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas.
 
@@ -102,6 +98,6 @@ Atualmente atuo como **Desenvolvedor Front-End** na **Bee** 🐝, criando interf
 ### 📊 GitHub Stats
 
 <div align="flex-start">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1i&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1i&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
