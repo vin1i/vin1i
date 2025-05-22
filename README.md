@@ -14,7 +14,7 @@ Gosto de transformar ideias em soluções através do código. 🚀
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,mysql,vite,linux,cloudflare,aws,docker,postman,mongodb,express" />
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,js,ts,vite,nodejs,express,firebase,mysql,mongodb,docker,linux,postman" />
 </p>
 
 </div>
