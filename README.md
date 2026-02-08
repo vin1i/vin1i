@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 Sobre mim
 
-Atualmente atuo como **Desenvolvedor Front-End** na **Bee** 🐝, criando interfaces modernas, performáticas e acessíveis.
+Atualmente atuo como **Software Engineer** na **Bee** 🐝, criando interfaces modernas, performáticas e acessíveis.
 
 💡 No momento, estou expandindo meus conhecimentos em:
 - **Design UI/UX**, para melhorar a experiência do usuário;
