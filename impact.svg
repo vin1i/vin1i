@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="Impact metrics">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; }
+    .num { font-size: 26px; font-weight: 700; fill: #e6edf3; }
+    .lbl { font-size: 12px; fill: #8b949e; letter-spacing: .3px; }
+    .ttl { font-size: 13px; font-weight: 600; fill: #8b949e; letter-spacing: 1.4px; }
+    .tile { animation: rise .55s cubic-bezier(.2,.7,.3,1) both; }
+    .bar  { animation: grow .7s cubic-bezier(.2,.7,.3,1) both; }
+    .t1 { animation-delay: .10s } .t2 { animation-delay: .22s } .t3 { animation-delay: .34s }
+    .t4 { animation-delay: .46s } .t5 { animation-delay: .58s } .t6 { animation-delay: .70s }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes grow { from { width: 0; } to { width: 34px; } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="839" height="229" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text class="ttl" x="24" y="30">IMPACT</text>
+  <line x1="24" y1="42" x2="816" y2="42" stroke="#21262d"/>
+
+  <g transform="translate(24,62)">
+    <g class="tile t1">
+      <rect class="bar t1" width="34" height="3" rx="1.5" fill="#58a6ff"/>
+      <text class="num" y="36">108</text>
+      <text class="lbl" y="56">client companies served</text>
+    </g>
+  </g>
+  <g transform="translate(288,62)">
+    <g class="tile t2">
+      <rect class="bar t2" width="34" height="3" rx="1.5" fill="#3fb950"/>
+      <text class="num" y="36">88M</text>
+      <text class="lbl" y="56">messages processed</text>
+    </g>
+  </g>
+  <g transform="translate(552,62)">
+    <g class="tile t3">
+      <rect class="bar t3" width="34" height="3" rx="1.5" fill="#d29922"/>
+      <text class="num" y="36">2.8M</text>
+      <text class="lbl" y="56">leads under management</text>
+    </g>
+  </g>
+  <g transform="translate(24,152)">
+    <g class="tile t4">
+      <rect class="bar t4" width="34" height="3" rx="1.5" fill="#a371f7"/>
+      <text class="num" y="36">1,500+</text>
+      <text class="lbl" y="56">agents on features I shipped</text>
+    </g>
+  </g>
+  <g transform="translate(288,152)">
+    <g class="tile t5">
+      <rect class="bar t5" width="34" height="3" rx="1.5" fill="#f85149"/>
+      <text class="num" y="36">28</text>
+      <text class="lbl" y="56">pentest vulnerabilities fixed</text>
+    </g>
+  </g>
+  <g transform="translate(552,152)">
+    <g class="tile t6">
+      <rect class="bar t6" width="34" height="3" rx="1.5" fill="#58a6ff"/>
+      <text class="num" y="36">R$300k</text>
+      <text class="lbl" y="56">campaign cost cut per client</text>
+    </g>
+  </g>
+</svg>
