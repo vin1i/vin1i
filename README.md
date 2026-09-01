@@ -1,73 +1,43 @@
-# Marcos Vinícius
+<h1 align="center">Marcos Vinícius</h1>
 
-**Software Engineer** — Full-Stack & Applied AI
-TypeScript · Node.js/NestJS · React/Next.js · PHP/Laravel · Vue
+<p align="center">
+  <b>Software Engineer</b> — Full-Stack &amp; Applied AI<br>
+  Multi-tenant B2B SaaS · Real-time systems · Application security
+</p>
 
-Teresina, PI, Brazil · Open to remote
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vinideveloper.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvini21/)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosvinidev342@gmail.com)
-
----
-
-### About
-
-Software engineer with 3 years building **multi-tenant B2B SaaS** at scale. I cover the full cycle — data modeling, backend, real-time and frontend — with a bias toward reliability, application security and privacy by design.
-
-Currently the top individual contributor on **BeeCRM**, an omnichannel CRM serving **108 client companies** and **88M+ messages** (peaks of 141k/day), where I shipped a voice-calling module from scratch on the Meta WhatsApp Cloud API and fixed **28 pentest vulnerabilities** before writing the security gate that became the project standard.
+<p align="center">
+  <a href="https://www.vinideveloper.com.br/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mvini21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:marcosvinidev342@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Remote-friendly-2ea44f?style=flat-square" />
+</p>
 
 ---
 
-### What I work on
+Software engineer with 3 years building multi-tenant B2B SaaS at scale — data modeling, backend, real-time and frontend. I care about reliability, application security and privacy by design, and I treat AI as a dependency that can fail: deterministic fallback, usage accounting and per-tenant limits.
 
-- **Multi-tenant SaaS at scale** — isolated databases, cross-tenant admin tooling, white-label architecture
-- **Applied AI in product** — multi-provider architecture (OpenAI / Anthropic) swappable by config, SSE streaming, per-tenant cost accounting and rate limiting, automatic LGPD retention
-- **Real-time systems** — WebSocket, WebRTC + Coturn, SDP signaling, live notifications
-- **Queues & async processing** — BullMQ workers, high-volume exports, background pipelines
-- **Application security** — IDOR, mass assignment, CSV/formula injection, HMAC webhooks with anti-replay, RBAC, LGPD
-- **Performance** — N+1 elimination, query optimization, caching and request deduplication on active bases of millions of records
+```
+108 client companies      88M messages processed      28 pentest vulns fixed
+2.8M leads                1,500+ agents served        R$300k campaign cost cut
+```
 
-I treat AI as a dependency that can fail: deterministic fallback, usage accounting and per-tenant limits. A provider outage degrades a feature — it never takes down the screen.
+### Currently
 
----
+**BeeCRM** · omnichannel CRM — top individual contributor. Shipped voice calling over the Meta WhatsApp Cloud API (WebRTC + Coturn) from scratch, plus the AI assistant and the project's security gate.
+**Folheto Digital** · WhatsApp marketing SaaS — lead frontend (~69% of commits), 14 domain modules, i18n rollout to 3 locales on a live product.
+**SIM** · occupational health SaaS — ~25% of repo history. Table design system on TanStack Table (13 screens) and end-to-end white-labeling.
 
-### Selected work
+### Stack
 
-**BeeLabs — BeeCRM** · omnichannel CRM & contact center (WhatsApp, Instagram, Messenger, RCS, SMS)
-`Vue 3` `Laravel + Octane/Swoole` `MySQL` `Redis` `WebRTC`
-Top individual contributor (2,261 of 8,445 commits). Built **Bee Voice** — voice calls over the Meta WhatsApp Cloud API with cascading routing, browser recording and signed S3 upload — for 1,500+ agents. Built the central admin panel consolidating 114 tenants across 5 database servers with AES-256-GCM credential encryption. Architected the per-card AI assistant and the AI call transcription/summary pipeline with per-tenant cost ceilings.
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,nextjs,vue,tailwind,php,laravel,postgres,redis,prisma,docker,aws,linux&perline=8" />
 
-**Folheto Digital** · conversational marketing SaaS on WhatsApp, 150k+ leads
-`Next.js 15` `React 19` `TypeScript` `BullMQ` `Socket.IO`
-Lead frontend contributor (~69% of commits) across 14 domain modules. Cut average WhatsApp campaign cost by **R$300k (~US$60k) per supermarket chain** by replacing broadcast flows with digital flyer distribution. Led the i18n rollout of a live product to 3 locales over 7 planned phases and 18 namespaces. Built the reporting/BI module with async XLSX/CSV exports on queue.
+<sub>Also: BullMQ · RabbitMQ · Socket.IO · WebRTC + Coturn · OpenAI &amp; Anthropic APIs · Playwright · Vitest · Sentry · Turborepo</sub>
 
-**SIM — Sistemas Integrados de Melhoria** · occupational health & safety SaaS
-`Turborepo` `Next.js 16` `NestJS 11` `Prisma 7` `PostgreSQL 16`
-~25% of repository history, end to end. Designed the platform's table design system on TanStack Table (URL-synced faceted filters, batch actions, mobile card mode, dependency-free CSV export), adopted across 13 screens. Shipped white-labeling end to end — palette derivation with WCAG AA contrast validation, SSR theming without FOUC, brand propagation to 6 surfaces. Implemented frontend LGPD compliance (PII scrubbing in Sentry, consent-gated analytics) and recovered a months-stale Playwright e2e suite.
+### Stats
 
----
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vin1i&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&custom_title=GitHub" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&layout=compact&hide_border=true&theme=github_dark&langs_count=8&custom_title=Most%20used" />
+</p>
 
-### Tech
-
-| | |
-|---|---|
-| **Languages** | TypeScript, JavaScript, PHP 8, SQL |
-| **Backend** | Node.js, NestJS, Laravel (Octane/Swoole), REST, WebSockets, Prisma, Eloquent, BullMQ, JWT/Passport, Zod, event-driven architecture |
-| **Frontend** | React 19, Next.js (App Router, RSC, SSR), Vue 3, Tailwind CSS, shadcn/ui, Radix UI, TanStack Query/Table, Zustand, React Hook Form |
-| **AI** | OpenAI API, Anthropic Claude API, provider abstraction, SSE streaming, per-tenant cost control, chatbot execution engines, agent orchestration (Claude Code, MCP) |
-| **Data & Messaging** | PostgreSQL, MySQL, MongoDB, Redis, BullMQ, RabbitMQ, Socket.IO, Soketi, WebRTC + Coturn |
-| **Cloud & DevOps** | Docker, Nginx, Caddy, AWS S3, Cloudflare R2, MinIO, Vercel, Linux VPS, Turborepo, pnpm workspaces, GitHub Actions |
-| **Integrations** | Meta WhatsApp Cloud API, Evolution API, Baileys, Instagram/Messenger, RCS, SMS, Stripe, HMAC webhooks |
-| **Quality & Security** | Vitest, Jest, PHPUnit, Playwright, Testing Library, Sentry, PostHog, pentest remediation, RBAC, LGPD, WCAG AA |
-
----
-
-### Education
-
-**Systems Analysis and Development** — Universidade Maurício de Nassau, 2025
-Portuguese (native) · English (intermediate)
-
----
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&theme=github_dark&layout=compact&custom_title=Most%20used&langs_count=8" />
+<sub>Systems Analysis and Development, Universidade Maurício de Nassau (2025) · 🇧🇷 Native · 🇺🇸 Intermediate</sub>
