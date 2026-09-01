@@ -10,7 +10,7 @@
   <a href="https://www.vinideveloper.com.br/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mvini21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marcosvinidev342@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Remote-friendly-2ea44f?style=flat-square" />
+ 
 </p>
 
 ---
