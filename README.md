@@ -1,25 +1,25 @@
 <h1 align="center">Marcos Vinícius</h1>
 
 <p align="center">
-  <b>Software Engineer</b> — Full-Stack &amp; Applied AI<br>
-  Multi-tenant B2B SaaS · Real-time systems · Application security
+  <a href="https://www.vinideveloper.com.br/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+Engineer+%E2%80%94+Full-Stack+%26+Applied+AI;Multi-tenant+B2B+SaaS+at+scale;Real-time+systems+%26+application+security" alt="Software Engineer — Full-Stack & Applied AI" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.vinideveloper.com.br/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mvini21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marcosvinidev342@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <!-- <img src="https://img.shields.io/badge/Remote-friendly-2ea44f?style=flat-square" /> -->
+  <img src="https://img.shields.io/badge/Remote-friendly-2ea44f?style=flat-square" />
 </p>
 
 ---
 
 Software engineer with 3 years building multi-tenant B2B SaaS at scale — data modeling, backend, real-time and frontend. I care about reliability, application security and privacy by design, and I treat AI as a dependency that can fail: deterministic fallback, usage accounting and per-tenant limits.
 
-```
-108 client companies      88M messages processed      28 pentest vulns fixed
-2.8M leads                1,500+ agents served        R$300k campaign cost cut
-```
+<p align="center">
+  <img src="./assets/impact.svg" alt="Impact metrics" width="100%" />
+</p>
 
 ### Currently
 
@@ -34,6 +34,12 @@ Software engineer with 3 years building multi-tenant B2B SaaS at scale — data 
 <sub>Also: BullMQ · RabbitMQ · Socket.IO · WebRTC + Coturn · OpenAI &amp; Anthropic APIs · Playwright · Vitest · Sentry · Turborepo</sub>
 
 ### Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vin1i/vin1i/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vin1i/vin1i/output/snake-light.svg" />
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/vin1i/vin1i/output/snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vin1i&theme=github_dark" />
