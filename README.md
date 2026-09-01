@@ -9,7 +9,7 @@
   <a href="https://www.vinideveloper.com.br/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mvini21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marcosvinidev342@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Remote-friendly-2ea44f?style=flat-square" />
+  <!-- <img src="https://img.shields.io/badge/Remote-friendly-2ea44f?style=flat-square" /> -->
 </p>
 
 ---
@@ -35,9 +35,12 @@ Software engineer with 3 years building multi-tenant B2B SaaS at scale — data 
 
 ### Stats
 
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vin1i&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&custom_title=GitHub" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1i&layout=compact&hide_border=true&theme=github_dark&langs_count=8&custom_title=Most%20used" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vin1i&theme=github_dark" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vin1i&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vin1i&theme=github_dark" />
 </p>
 
 <sub>Systems Analysis and Development, Universidade Maurício de Nassau (2025) · 🇧🇷 Native · 🇺🇸 Intermediate</sub>
