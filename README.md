@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.vinideveloper.com.br/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+Engineer+%E2%80%94+Full-Stack+%26;Multi-tenant+B2B+SaaS+at+scale;Real-time+systems+%26+application+security" alt="Software Engineer — Full-Stack" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+Engineer+%E2%80%94+Full-Stack;Multi-tenant+B2B+SaaS+at+scale;Real-time+systems+%26+application+security" alt="Software Engineer — Full-Stack" />
   </a>
 </p>
 
